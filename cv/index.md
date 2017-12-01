@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV - Rachel J. Stern
+title: CV - Rachel J. Stern, M.D.
 ---
 **Rachel J. Stern, M.D.**  
 Assistant Professor  
