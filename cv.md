@@ -1,4 +1,4 @@
-**Rachel Stern, M.D.**
+**Rachel J. Stern, M.D.**
 Assistant Professor  
 UCSF School of Medicine  
 Department of	Medicine  
