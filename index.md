@@ -10,5 +10,7 @@ My current projects include improving ambulatory chronic disease management, co-
 
 ### Selected Publications
 * Steinbrook R, **Stern RJ**, Redberg RF. 2017. Firearm Violence: A JAMA Internal Medicine Series. *JAMA Internal Medicine*. [DOI: 10.1001/jamainternmed.2016.7180](https://doi.org/10.1001/jamainternmed.2016.7180){:target="_blank"}  
+
 * **Stern RJ**. 2016. Health Policy and Medical Training: Breaking Down Barriers Between the Wards and the World. *JAMA Internal Medicine*. [DOI: 10.1001/jamainternmed.2015.6848](https://doi.org/10.1001/jamainternmed.2015.6848){:target="_blank"}  
+
 * **Stern RJ**, Murphy EJ. 2015. Metformin as Initial Oral Therapy in Type 2 Diabetes. *JAMA*. [DOI: 10.1001/jama.2015.2765](https://doi.org/10.1001/jama.2015.2765){:target="_blank"}  
