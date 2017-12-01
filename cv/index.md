@@ -12,7 +12,7 @@ Phone: 415-206-8322
 Email: Rachel.Stern@ucsf.edu  
 
 ## Education and Training
-Chief Residency. Internal Medicine, Zuckerberg San Francisco General Hospital, University of California, San Francisco. 2017.	
-Residency.	Internal Medicine, San Francisco General Primary Care Track (SFPC), University of California, San Francisco. 2016.	 
-M.D. University of California, San Francisco. 2013.  
-A.B. Social Studies, Harvard College, Cambridge. 2007.  
+* Chief Residency. Internal Medicine, Zuckerberg San Francisco General Hospital, University of California, San Francisco. 2017.	 
+* Residency.	Internal Medicine, San Francisco General Primary Care Track (SFPC), University of California, San Francisco. 2016.   
+* M.D. University of California, San Francisco. 2013.  
+* A.B. Social Studies, Harvard College, Cambridge. 2007.  
