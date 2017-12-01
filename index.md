@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home - Rachel J. Stern, M.D.
+---
 ## Welcome!
 ### Overview
 I'm a clinician educator, primary care provider and hospitalist at Zuckerberg San Francisco General Hospital. I serve as the Assistant Director for Quality and Systems Improvement at our safety net internal medicine resident teaching clinic. My interests include primary care quality improvement as a tool to improve health equity, teaching QI and developing the next generation of safety net leaders, and healing transitions between the hospital and the community.  
