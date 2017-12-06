@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+.site-footer-credits {
+  @include large {
+    font-size: 0.5rem;
+  }
+
+  @include medium {
+    font-size: 0.5rem;
+  }
+
+  @include small {
+    font-size: 0.4rem;
+  }
+}
