@@ -4,14 +4,14 @@
 @import "{{ site.theme }}";
 .site-footer-credits {
   @include large {
-    font-size: 0.5rem;
+    font-size: 0.6rem;
   }
 
   @include medium {
-    font-size: 0.5rem;
+    font-size: 0.6rem;
   }
 
   @include small {
-    font-size: 0.4rem;
+    font-size: 0.5rem;
   }
 }
